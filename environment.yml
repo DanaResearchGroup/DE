@@ -1,0 +1,9 @@
+name: de_env
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+dependencies:
+  - numpy
+  - matplotlib
+  
